@@ -72,6 +72,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ariyan378/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ariyan378)
