@@ -9,7 +9,11 @@
 - ❓ Ask me about anything related to Data Analyst and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- 🔭 I’m currently working on *Python* 
+- 🌱 I’m currently learning *Data* *Science* 
+- 📫 How to reach me: www.linkedin.com/in/md-hridoy-337972314 
+
   
 
 <br/>  
