@@ -20,6 +20,9 @@
 <br/>  
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyan378&label=Profile views&color=0e75b6&style=flat" alt="ariyan378" /> </
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
