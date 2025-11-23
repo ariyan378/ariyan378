@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-7E57C2?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-FBC02D?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </p>
 
 
