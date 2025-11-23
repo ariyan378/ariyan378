@@ -1,10 +1,6 @@
 <p align="center">
   <img alt="Ariyan The Analyst — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=0D7BEF&center=true&vCenter=true&width=800&height=120&lines=Ariyan+The+Analyst" />
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=28&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights;Love+to+Discover+Patterns+%26+Stories" />
-</p>
 
 ---
 | About Me | Tech Skills |
@@ -15,11 +11,10 @@
 
 ## 🔍 What I Do
 
-- **Exploratory Data Analysis (EDA):** Examine and interpret data to uncover trends, patterns, and actionable insights.  
-- **Python for Data Manipulation:** Efficiently clean, transform, and analyze datasets using Python (Pandas, NumPy).  
-- **SQL for Data Querying:** Extract, filter, and aggregate data from relational databases for analysis.  
-- **Data Visualization:** Create meaningful visualizations using Matplotlib, Seaborn, and Power BI to communicate insights clearly.  
-- **Data Cleaning & Preprocessing:** Prepare datasets by handling missing values, outliers, and formatting for accurate analysis.  
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=28&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights;Love+to+Discover+Patterns+%26+Stories" />
+</p>
+
 
 ---
 
