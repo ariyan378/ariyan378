@@ -2,7 +2,9 @@
 <img src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/587029177_1262559598962897_4539183053437201802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEs9zKSlFER4_5pM2M488AYRDjb3Bcs2PhEONvcFyzY-LMij5tkarJIcQd63sseXD6Fr5mh6r4psTqLM8td7K1s&_nc_ohc=YCMqYllGYEAQ7kNvwGcu4KB&_nc_oc=AdmLpIK5OfftaaCvLXGUJVqw_npXUm2B7Alf-72oLJQLmcMuAnDbue6RfJHLg18LLbI&_nc_zt=23&_nc_ht=scontent.fdac5-1.fna&_nc_gid=hGSAmPnKx3_jtCNl84h-SQ&oh=00_Afh4hrttrOXw8lf7jXOhifDNOIOpKsilv1wr4ywPaoSoOA&oe=69262F7C" align="center" style="width: 100%" />
 </div>  
   
-
+<p align="center">
+  <img alt="Ariyan The Analyst" src="./assets/ariyan.gif" />
+</p>
 
 ### **<div align="center">I'M Hridoy , A Future Data Analyst</div>**  
   
