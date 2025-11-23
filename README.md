@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/587029177_1262559598962897_4539183053437201802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEs9zKSlFER4_5pM2M488AYRDjb3Bcs2PhEONvcFyzY-LMij5tkarJIcQd63sseXD6Fr5mh6r4psTqLM8td7K1s&_nc_ohc=YCMqYllGYEAQ7kNvwGcu4KB&_nc_oc=AdmLpIK5OfftaaCvLXGUJVqw_npXUm2B7Alf-72oLJQLmcMuAnDbue6RfJHLg18LLbI&_nc_zt=23&_nc_ht=scontent.fdac5-1.fna&_nc_gid=hGSAmPnKx3_jtCNl84h-SQ&oh=00_Afh4hrttrOXw8lf7jXOhifDNOIOpKsilv1wr4ywPaoSoOA&oe=69262F7C" align="center" style="width: 100%" />
-</div>  
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNwaWF4NGZjdG91dzZwYTBrYWxlOTM5NWw5N2toejYxaDUxNW81eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+</p>
 
 <p align="center">
   <img alt="Ariyan The Analyst — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=0D7BEF&center=true&vCenter=true&width=800&height=120&lines=Ariyan+The+Analyst" />
@@ -22,9 +22,7 @@
 
 <br/>  
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNwaWF4NGZjdG91dzZwYTBrYWxlOTM5NWw5N2toejYxaDUxNW81eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" />
-</p>
+
 
 
 
