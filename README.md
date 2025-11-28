@@ -81,5 +81,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ariyan378&style=for-the-badge&color=brightgreen" />
+</p>
 
