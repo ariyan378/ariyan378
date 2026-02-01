@@ -170,7 +170,7 @@ graph LR
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
     height="145"
   />
 </p>
@@ -184,6 +184,7 @@ graph LR
     src="https://github-profile-trophy.vercel.app/?username=ariyan378&theme=tokyonight&no-frame=true&column=6"
   />
 </p>
+
 ---
 
 
