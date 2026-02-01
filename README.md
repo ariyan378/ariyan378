@@ -159,18 +159,14 @@ graph LR
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ariyan378&theme=tokyonight&hide_border=true"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&hide_border=true&v=1"
+    height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=1"
     height="145"
   />
 </p>
