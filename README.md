@@ -207,8 +207,6 @@ I'm always excited to collaborate on data science projects, discuss machine lear
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hridoy-337972314)
 [![Email](https://img.shields.io/badge/Send_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-**Open to:**
-- Learn
 
 </div>
 
@@ -219,10 +217,6 @@ I'm always excited to collaborate on data science projects, discuss machine lear
 ### ⚡ Fun Fact
 When I'm not analyzing data, you'll find me exploring new ML algorithms or contributing to open-source projects!
 
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
