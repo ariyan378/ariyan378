@@ -155,33 +155,6 @@ graph LR
 - 📅 Advanced NLP & Transformers
 
 ---
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&hide_border=true&v=1"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=1"
-    height="145"
-  />
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ariyan378&theme=tokyonight&no-frame=true&column=6"
-  />
-</p>
-
----
 
 
 ## 💡 Data Science Principles I Follow
