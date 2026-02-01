@@ -155,36 +155,35 @@ graph LR
 - 📅 Advanced NLP & Transformers
 
 ---
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=ariyan378&theme=tokyonight&hide_border=true"
-    height="165"
+    height="160"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&layout=compact&theme=tokyonight&hide_border=true"
+    height="145"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ariyan378&theme=tokyonight&no-frame=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=ariyan378&theme=tokyonight&no-frame=true&column=6"
   />
 </p>
-
 ---
 
 
