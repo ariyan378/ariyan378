@@ -1,87 +1,237 @@
+
+
+
+  
+# 👋 Hi, I'm Ariyan Hridoy
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Machine+Learning;Building+Predictive+Models;Exploring+AI+%26+Deep+Learning)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hridoy-337972314)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariyan378)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=k0qv370)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ariyan.islam.hridoy.319077)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ariyan378&style=for-the-badge&color=2E9EFF)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Data Analyst** on a journey to becoming a **Data Scientist**. I love uncovering insights from data and building intelligent solutions that drive real-world impact. Currently focused on mastering machine learning, statistical modeling, and AI to transform complex datasets into predictive models.
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Ariyan Hridoy"
+        self.role = "Data Analyst → Data Scientist"
+        self.location = "Dhaka, Bangladesh"
+        self.interests = ["Machine Learning", "Deep Learning", "Data Visualization", "AI"]
+    
+    def current_focus(self):
+        return [
+            "Advanced Python & Statistical Analysis",
+            "Machine Learning Algorithms",
+            "Deep Learning & Neural Networks",
+            "MLOps & Model Deployment",
+            "Cloud Computing (AWS/Azure)"
+        ]
+    
+    def say_hi(self):
+        print("Let's build something amazing with data!")
+
+me = DataScientist()
+me.say_hi()
+```
+
+---
+
+## 💼 Technical Skills
+
+<div align="center">
+
+### 🐍 Programming & Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🤖 Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+### 🗄️ Databases & Query Languages
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### 🛠️ Tools & Technologies
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+</div>
+
+---
+
+## 🎯 What I Want To Learn
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 Data Analysis
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Hypothesis Testing
+- Data Cleaning & Preprocessing
+- Business Intelligence & Reporting
+
+</td>
+<td width="50%">
+
+### 🧠 Machine Learning
+- Predictive Modeling
+- Classification & Regression
+- Clustering & Segmentation
+- Feature Engineering
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Visualization
+- Interactive Dashboards
+- Storytelling with Data
+- Business Metrics Tracking
+- Custom Report Generation
+
+</td>
+<td width="50%">
+
+### 🔬 Currently Learning
+- Python,SQL,EXCEL,POWER-BI
+- Promt Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Learning Roadmap
+
+```mermaid
+graph LR
+    A[Data Analysis] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[MLOps]
+    D --> E[Data Scientist]
+    
+    B --> F[NLP]
+    B --> G[Computer Vision]
+    F --> E
+    G --> E
+```
+
+**Current Focus:**
+- ✅ Advanced Python & Statistics
+- 🔄 Machine Learning Fundamentals
+- 🔄 Deep Learning with TensorFlow/PyTorch
+- 🔄 Cloud Platforms (AWS/Azure)
+- 📅 MLOps & Production Deployment
+- 📅 Advanced NLP & Transformers
+
+---
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img alt="Ariyan The Analyst — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=0D7BEF&center=true&vCenter=true&width=800&height=120&lines=Ariyan+The+Analyst" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ariyan378&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
-
----
-| About Me | Tech Skills |
-|----------|------------|
-| Hi, I’m **Ariyan Hridoy** — a passionate **Data Analyst** who transforms raw data into actionable insights. I enjoy exploring datasets, discovering patterns, and building analytical solutions that solve real-world problems. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=seaborn&logoColor=white) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
-
----
-
-## 🔍 What I Do
-
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=28&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Transforming+Raw+Data+Into+Insights;Love+to+Discover+Patterns+%26+Stories" />
-</p>
-
-
----
-
-## 🌱 Currently Learning
-
-- Python 
-- Dashboard building & automation  
-
----
-
-## 📫 How to Reach Me
-
-🔗 **LinkedIn:** [www.linkedin.com/in/md-hridoy-337972314](https://www.linkedin.com/in/md-hridoy-337972314)
-
-
-<br/>  
-
-
-## Connect Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://www.linkedin.com/in/md-hridoy-337972314)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ariyan.islam.hridoy.319077)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ariyan378)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=k0qv370)  
-
-# 💻 Tech Stack:
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=seaborn&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ariyan378&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ariyan378&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# Skill Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-7E57C2?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan378&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+    height="150"
+  />
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariyan378&theme=onestar&no-frame=true&margin-w=15" />
-</p>
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ariyan378&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariyan378&style=for-the-badge&color=brightgreen" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ariyan378&theme=tokyonight&no-frame=true&margin-w=8"
+  />
 </p>
 
+---
+
+
+## 💡 Data Science Principles I Follow
+
+<div align="center">
+
+> *"In God we trust, all others must bring data."* — W. Edwards Deming
+
+> *"Data is the new oil, but only if refined into insights."*
+
+> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on data science projects, discuss machine learning concepts, or explore new opportunities. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hridoy-337972314)
+[![Email](https://img.shields.io/badge/Send_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+**Open to:**
+- Learn
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+When I'm not analyzing data, you'll find me exploring new ML algorithms or contributing to open-source projects!
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+**🌟 If you find my work interesting, consider giving a star to my repositories!**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
