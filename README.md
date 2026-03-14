@@ -188,7 +188,7 @@ I'm always excited to collaborate on data science projects, discuss machine lear
 <div align="center">
 
 ### ⚡ Fun Fact
-When I'm not analyzing data, you'll find me exploring new ML algorithms or contributing to open-source projects and vs code font{ psudoFont Liga Mono , Roboto Mono ,Operator Mono , Noto Sans Mono Regular   ,Cascadia Code  light  ,Oxygen Mono , DejaVu Sans Mono}!
+When I'm not analyzing data, you'll find me exploring new ML algorithms or contributing to open-source projects and vs code font{  DejaVu Sans Mono ,Noto Sans Mono Regular, Noto Mono Regular, oxygen mono ,Roboto Mono ,Operator Mono  Cascadia mono light}!
 
 
 ---
