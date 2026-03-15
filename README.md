@@ -2,7 +2,7 @@
 
 
   
-# 👋 Hi, I'm Ariyan Hridoy
+# 👋 Hi, I'm Ariyan Islam Hridoy
 
 
 
