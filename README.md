@@ -78,50 +78,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🎯 What I Want To Learn
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Data Analysis
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis & Hypothesis Testing
-- Data Cleaning & Preprocessing
-- Business Intelligence & Reporting
-
-</td>
-<td width="50%">
-
-### 🧠 Machine Learning
-- Predictive Modeling
-- Classification & Regression
-- Clustering & Segmentation
-- Feature Engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Visualization
-- Interactive Dashboards
-- Storytelling with Data
-- Business Metrics Tracking
-- Custom Report Generation
-
-</td>
-<td width="50%">
-
-### 🔬 Currently Learning
-- Python,SQL,EXCEL,POWER-BI
-- Promt Engineering
-
-</td>
-</tr>
-</table>
 
 ---
 
