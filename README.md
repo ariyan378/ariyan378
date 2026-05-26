@@ -23,28 +23,17 @@
 
 I'm a passionate **Data Analyst** on a journey to becoming a **Data Scientist**. I love uncovering insights from data and building intelligent solutions that drive real-world impact. Currently focused on mastering machine learning, statistical modeling, and AI to transform complex datasets into predictive models.
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Ariyan Hridoy"
-        self.role = "Data Analyst → Data Scientist"
-        self.location = "Dhaka, Bangladesh"
-        self.interests = ["Machine Learning", "Deep Learning", "Data Visualization", "AI"]
-    
-    def current_focus(self):
-        return [
-            "Advanced Python & Statistical Analysis",
-            "Machine Learning Algorithms",
-            "Deep Learning & Neural Networks",
-            "MLOps & Model Deployment",
-            "Cloud Computing (AWS/Azure)"
-        ]
-    
-    def say_hi(self):
-        print("Let's build something amazing with data!")
 
-me = DataScientist()
-me.say_hi()
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.metrics import accuracy_score, mean_squared_error, r2_score
+from sklearn.metrics import confusion_matrix, classification_report
 ```
 
 ---
