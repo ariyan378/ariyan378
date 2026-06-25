@@ -1,17 +1,21 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Ariyan%20Islam%20Hridoy&fontSize=24&fontColor=ffffff&fontAlignY=65&desc=success%20needs%20sacrifice&descSize=14&descAlignY=85&animation=fadeIn" alt="Ariyan Hridoy Footer" width="100%" />
 
+</div>
 
+<div align="center">
   
-# 👋 Hi, I'm Ariyan Islam Hridoy
+---
 
-
+**Data Analyst ➔ Data Scientist & Machine Learning Engineer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Machine+Learning;Building+Predictive+Models;Exploring+AI+%26+Deep+Learning)](https://git.io/typing-svg)
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hridoy-337972314)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariyan378)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=k0qv370)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ariyan.islam.hridoy.319077)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariyanhridoy921@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariyan378&style=for-the-badge&color=2E9EFF)
 
@@ -21,8 +25,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst** on a journey to becoming a **Data Scientist**. I love uncovering insights from data and building intelligent solutions that drive real-world impact. Currently focused on mastering machine learning, statistical modeling, and AI to transform complex datasets into predictive models.
+Architecting intelligence from raw data. As an aspiring **Data Scientist**, 
 
+My focus is on the intersection of advanced statistical modeling and deep learning—building systems that don't just analyze the past, but actively predict and generate the future.
 
 ```python
 import numpy as np
@@ -30,57 +35,39 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OneHotEncoder
+from sklearn.preprocessing import StandardScaler, LabelEncoder
 
-from sklearn.linear_model import LinearRegression
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor
 
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.linear_model import LinearRegression, LogisticRegression
+from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.svm import SVC
 
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+# Evaluation Metrics
+from sklearn.metrics import accuracy_score, mean_squared_error, r2_score, classification_report
 ```
-
 ---
-
 ## 💼 Technical Skills
 
 <div align="center">
 
-### 🐍 Programming & Data Analysis
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-### 🗄️ Databases & Query Languages
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### 🛠️ Tools & Technologies
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
 </div>
-
-
----
 
 ## 🌱 Learning Roadmap
 
@@ -96,7 +83,7 @@ graph LR
     F --> E
     G --> E
 ```
-
+---
 **Current Focus:**
 - ✅ Advanced Python & Statistics
 - 🔄 Machine Learning Fundamentals
@@ -112,40 +99,21 @@ graph LR
 
 <div align="center">
 
-> *"In God we trust, all others must bring data."* — W. Edwards Deming
-
-> *"Data is the new oil, but only if refined into insights."*
-
-> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+> *"In Allah we trust, all others must bring data."* —
 
 </div>
 
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on data science projects, discuss machine learning concepts, or explore new opportunities. Feel free to reach out!
+## 📈 GitHub Analytics
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hridoy-337972314)
-[![Email](https://img.shields.io/badge/Send_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=2E9EFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyan378&theme=tokyonight&hide_border=true&title_color=2E9EFF" alt="GitHub Streak" width="48%" />
+  <br><br>
 </div>
 
----
-
 <div align="center">
 
-### ⚡ Fun Fact
-When I'm not analyzing data, you'll find me exploring new vs code font{  DejaVu Sans Mono ,Noto Sans Mono Regular, Noto Mono Regular, oxygen mono ,Roboto Mono ,Operator Mono  Cascadia mono light}!
 
-
----
-
-**🌟 If you find my work interesting, consider giving a star to my repositories!**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Architecting%20Intelligence&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=75" alt="AI Engineer Footer" width="100%" />
 
 </div>
