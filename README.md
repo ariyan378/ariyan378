@@ -22,33 +22,6 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
-Architecting intelligence from raw data. As an aspiring **Data Scientist**, 
-
-My focus is on the intersection of advanced statistical modeling and deep learning—building systems that don't just analyze the past, but actively predict and generate the future.
-
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-
-
-from sklearn.linear_model import LinearRegression, LogisticRegression
-from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
-from sklearn.svm import SVC
-
-# Evaluation Metrics
-from sklearn.metrics import accuracy_score, mean_squared_error, r2_score, classification_report
-```
----
 ## 💼 Technical Skills
 
 <div align="center">
