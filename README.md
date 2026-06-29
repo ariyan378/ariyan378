@@ -85,15 +85,7 @@ graph LR
 
 </div>
 
-## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariyan378&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=2E9EFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyan378&theme=tokyonight&hide_border=true&title_color=2E9EFF" alt="GitHub Streak" width="48%" />
-  <br><br>
-</div>
-
-<div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Architecting%20Intelligence&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=75" alt="AI Engineer Footer" width="100%" />
