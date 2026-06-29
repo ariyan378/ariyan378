@@ -6,10 +6,19 @@
 <div align="center">
   
 ---
-
 **Data Analyst ➔ Data Scientist & Machine Learning Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Python+%7C+SQL+%7C+Machine+Learning;Building+Predictive+Models;Exploring+AI+%26+Deep+Learning)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=22&duration=2000&pause=500&color=27AE60&vCenter=true&width=500&lines=data-science-workspace;P(A|B)+=+[P(B|A)P(A)]/P(B);statistical_inference_curated" alt="Minimalist Typist" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/architecture-data_driven-2C3E50?style=for-the-badge" alt="Architecture" />
+  <img src="https://img.shields.io/badge/status-production_ready-2C3E50?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/domain-statistical_analysis-27AE60?style=for-the-badge" alt="Domain" />
+</p>
+
+
 
 <br>
 
