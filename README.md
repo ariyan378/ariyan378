@@ -1,22 +1,21 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Ariyan%20Islam%20Hridoy&fontSize=24&fontColor=ffffff&fontAlignY=65&desc=success%20needs%20sacrifice&descSize=14&descAlignY=85&animation=fadeIn" alt="Ariyan Hridoy Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Ariyan%20Islam%20Hridoy&fontSize=24&fontColor=ffffff&fontAlignY=65&desc=Aspiring%20Data%20Scientist&descSize=14&descAlignY=85&animation=fadeIn" alt="Ariyan Hridoy Footer" width="100%" />
 
 </div>
 
 <div align="center">
   
 ---
-**Data Analyst ➔ Data Scientist & Machine Learning Engineer**
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=22&duration=2000&pause=500&color=27AE60&vCenter=true&width=500&lines=data-science-workspace;P(A|B)+=+[P(B|A)P(A)]/P(B);statistical_inference_curated" alt="Minimalist Typist" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/architecture-data_driven-2C3E50?style=for-the-badge" alt="Architecture" />
   <img src="https://img.shields.io/badge/status-production_ready-2C3E50?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/domain-statistical_analysis-27AE60?style=for-the-badge" alt="Domain" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&size=22&duration=2000&pause=500&color=000000&vCenter=true&width=500&lines=Data-Science-Workspace;w+%E2%86%90+w+---+%CE%B7%E2%88%87L(w);predictive_modeling_core" alt="Minimalist Typist" />
+</p>
+
 
 
 
@@ -75,6 +74,7 @@ graph LR
 - 📅 Advanced NLP & Transformers
 
 ---
+
 
 
 ## 💡 Data Science Principles I Follow
