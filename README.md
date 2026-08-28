@@ -1,3 +1,7 @@
+
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Ariyan%20Islam%20Hridoy&fontSize=24&fontColor=ffffff&fontAlignY=65&desc=Aspiring%20Data%20Scientist&descSize=14&descAlignY=85&animation=fadeIn" alt="Ariyan Hridoy Footer" width="100%" />
 
 </div>
@@ -90,3 +94,5 @@ graph LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=120&section=footer&text=Architecting%20Intelligence&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=75" alt="AI Engineer Footer" width="100%" />
 
 </div>
+
+
