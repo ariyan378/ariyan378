@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="gemini-svg.svg" alt="Cosmic Mindset Quote" width="750" />
-</p>
+<img width="1308" height="736" alt="aizen jpg" src="https://github.com/user-attachments/assets/c4f92c26-abe5-44a4-ac31-0887b8b57ba9" />
 
 </div>
 
