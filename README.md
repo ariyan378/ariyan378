@@ -1,4 +1,4 @@
-<img width="1308" height="736" alt="aizen jpg" src="https://github.com/user-attachments/assets/c4f92c26-abe5-44a4-ac31-0887b8b57ba9" />
+<img width="726" height="245" alt="download (1)" src="https://github.com/user-attachments/assets/d4ad8a5b-2a29-4f07-a38c-fbe4febfec27" />
 
 </div>
 
