@@ -71,7 +71,7 @@ graph LR
 ---
 **Current Focus:**
 - ✅ Advanced Python & Statistics
-- 🔄 Machine Learning Fundamentals
+- ✅ Machine Learning Fundamentals
 - 🔄 Deep Learning with TensorFlow/PyTorch
 - 🔄 Cloud Platforms (AWS/Azure)
 - 📅 MLOps & Production Deployment
